@@ -5,11 +5,14 @@ please mind that this code shows the fore-ground extaction of your web cam; *not
 if you wants to edit it for your use, you can reference the link below
 
 ### pre-requirements and download options
-+ numpy
++ **numpy** *if you have to edit the arrays*
 >pip install numpy
 
-+ opencv-python
++ **opencv-python** *for processing and showing the image*
 >pip install opencv-python
+
++ **opencv-contrib-python** *to get the default haarcascades, including the ones I used*
+>pip install opencv-contrib-python
 
 ### resources used
 [geekforgeeks](https://www.geeksforgeeks.org/background-subtraction-opencv "Background subtraction – OpenCV")
