@@ -18,9 +18,13 @@ OR just install them all with:
 
 ### execution
 + first clone this repo into your PC,for that run this command
-```git clone https://github.com/Midhlaj2006/BackGroundSubstracter.git```
+```
+git clone https://github.com/Midhlaj2006/BackGroundSubstracter.git
+```
 or
-```gh repo clone Midhlaj2006/BackGroundSubstracter```
+```
+gh repo clone Midhlaj2006/BackGroundSubstracter
+```
 
 + then your _BackGroundSubstracter_ folder you will have some thing like this:
   + Bg-substracter.py
