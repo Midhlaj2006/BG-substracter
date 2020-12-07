@@ -11,8 +11,5 @@ if you wants to edit it for your use, you can reference the link below
 + **opencv-python** *for processing and showing the image*
 >pip install opencv-python
 
-+ **opencv-contrib-python** *to get the default haarcascades, including the ones I used*
->pip install opencv-contrib-python
-
 ### resources used
 [geekforgeeks](https://www.geeksforgeeks.org/background-subtraction-opencv "Background subtraction – OpenCV")
