@@ -11,7 +11,7 @@ if you wants to edit it for your use, you can reference the link below
 + [**opencv-python**](https://docs.opencv.org/master/da/df6/tutorial_py_table_of_contents_setup.html) *for processing and showing the image*
 >pip install opencv-python
 
-+ [**opencv-python**](https://docs.opencv.org/master/da/df6/tutorial_py_table_of_contents_setup.html) *for getting some extra features like _bgsegm_ and _cascades_*
++ [**opencv-contrib-python**](https://docs.opencv.org/master/da/df6/tutorial_py_table_of_contents_setup.html) *for getting some extra features like _bgsegm_ and _cascades_*
 >pip install opencv-contrib-python
 
 OR just install them all with:
